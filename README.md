@@ -1,12 +1,12 @@
 
 
-🏢 Louisville Metro Employee Payroll & Overtime Analysis
+##🏢 Louisville Metro Employee Payroll & Overtime Analysis
 
 Uncovering salary patterns, overtime concentration, and departmental payroll drivers.
 
 A data-driven analysis of 40,816 employee payroll records from Louisville Metro Government to identify compensation trends, overtime dependency, and actionable workforce recommendations.
 
-📊 Project Overview
+##📊 Project Overview
 The Problem
 
 Large public-sector organizations must manage payroll spending efficiently while ensuring fair compensation and controlling overtime costs.
@@ -25,7 +25,7 @@ The Insight
 
 Employee compensation is strongly influenced by departmental structure, job roles, and overtime practices, with significant outliers impacting total payroll costs.
 
-💡 Key Findings
+##💡 Key Findings
 1. Salary Distribution is Highly Uneven
 
 Annual_Rate values vary widely across employees
