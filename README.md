@@ -1,6 +1,6 @@
 
 
-#🏢 Louisville Metro Employee Payroll & Overtime Analysis
+🏢 Louisville Metro Employee Payroll & Overtime Analysis
 
 Uncovering salary patterns, overtime concentration, and departmental payroll drivers.
 
@@ -11,7 +11,7 @@ The Problem
 
 Large public-sector organizations must manage payroll spending efficiently while ensuring fair compensation and controlling overtime costs.
 
-#The Focus
+The Focus
 
 Understanding:
 
@@ -21,11 +21,11 @@ Where overtime costs are most concentrated
 
 What salary patterns and anomalies exist across job roles
 
-#The Insight
+The Insight
 
 Employee compensation is strongly influenced by departmental structure, job roles, and overtime practices, with significant outliers impacting total payroll costs.
 
-#💡 Key Findings
+💡 Key Findings
 1. Salary Distribution is Highly Uneven
 
 Annual_Rate values vary widely across employees
@@ -68,7 +68,7 @@ These may represent executive roles, specialized jobs, or exceptional overtime w
 
 📌 Takeaway: Outlier investigation is essential for accurate budgeting and compliance.
 
-#🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 Python 3.9+ – Data analysis
 
@@ -78,7 +78,7 @@ Matplotlib – Visualizations
 
 Jupyter Notebook – Reporting and insights
 
-#🎯 Top Recommendations
+🎯 Top Recommendations
 
 ✅ Monitor departments with consistently high overtime for staffing improvements
 ✅ Review extreme salary and overtime outliers for auditing and transparency
@@ -86,7 +86,7 @@ Jupyter Notebook – Reporting and insights
 ✅ Use predictive modeling to forecast overtime and payroll budgets
 ✅ Optimize workforce allocation to reduce overtime dependency
 
-#📊 Dataset Information
+📊 Dataset Information
 
 Source: Louisville Metro KY Employee Salary Data
 
@@ -96,6 +96,6 @@ Features (11): Department, Job Title, Annual Rate, Regular Rate, Overtime Rate, 
 
 Time Period: Calendar year-based payroll snapshot (CalYear)
 
-#⭐ Final Summary
+⭐ Final Summary
 
 This project successfully identified key salary structures, overtime concentration, departmental payroll variation, and compensation outliers within Louisville Metro’s workforce. These findings support improved workforce planning, payroll transparency, and cost optimization strategies.
